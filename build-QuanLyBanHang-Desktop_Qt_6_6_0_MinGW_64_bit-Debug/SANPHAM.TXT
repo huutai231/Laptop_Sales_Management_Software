@@ -1,0 +1,24 @@
+asusvivobookE1504FA
+28
+Asus Vivobook Go 15 R5
+12000000
+lenovo15itl6
+20
+Lenovo Ideapad 3 i3
+32000000
+macbookm12020
+26
+MacBook Air M1 2020
+19590000
+hpn12
+19
+HP N12 i5
+12600000
+asusvivobookA123
+28
+Asus Vivobook A
+17000000
+macbookpro
+26
+MacBook Pro M2 2022
+30590000

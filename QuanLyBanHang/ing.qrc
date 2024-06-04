@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>ICON/user2.png</file>
+        <file>ICON/written-paper.png</file>
+        <file>ICON/reset-password.png</file>
+        <file>ICON/modify.png</file>
+        <file>ICON/man.png</file>
+        <file>ICON/cash-register.png</file>
+        <file>ICON/history.png</file>
+        <file>ICON/writing.png</file>
+        <file>ICON/laptop.png</file>
+        <file>ICON/left-arrow.png</file>
+        <file>ICON/right-arrow.png</file>
+        <file>ICON/trash.png</file>
+        <file>ICON/shopping-online.png</file>
+        <file>ICON/add-to-basket.png</file>
+        <file>ICON/contact-list.png</file>
+        <file>ICON/switch.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>BACKGROUND/bg1.jpg</file>
+        <file>BACKGROUND/desktop computer-rafiki.png</file>
+    </qresource>
+</RCC>
